@@ -1,0 +1,17 @@
+asgiref==3.7.2
+dj-database-url==2.1.0
+Django==4.2.6
+djangorestframework==3.14.0
+djangorestframework-simplejwt==5.3.1
+joblib==1.3.2
+mysqlclient==2.2.1
+numpy==1.26.3
+PyJWT==2.8.0
+python-dotenv==1.0.1
+pytz==2023.3.post1
+scikit-learn==1.4.0
+scipy==1.12.0
+sqlparse==0.4.4
+threadpoolctl==3.2.0
+typing_extensions==4.9.0
+tzdata==2023.3
